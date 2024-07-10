@@ -43,8 +43,8 @@ This is a simple TodoApp API built using FastAPI.
 
 FastAPI automatically generates interactive API documentation:
 
-- **Swagger UI**: `http://127.0.0.1:8000/docs`
-- **ReDoc**: `http://127.0.0.1:8000/redoc`
+- **Swagger UI**: `http://localhost:3000/docs`
+- **ReDoc**: `http://localhost:3000/redoc`
 
 ## Project Structure
 
