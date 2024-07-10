@@ -1,4 +1,4 @@
-# BlogApp API
+# TodoApp API
 
 This is a simple TodoApp API built using FastAPI.
 
