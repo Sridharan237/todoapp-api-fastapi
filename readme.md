@@ -19,8 +19,8 @@ This is a simple TodoApp API built using FastAPI.
 1. **Clone the repository**
 
     ```sh
-    git clone https://github.com/Sridharan237/api-2(todoapp-api).git
-    cd blogapp-api
+    git clone https://github.com/Sridharan237/todoapp-api-fastapi.git
+    cd todoapp-api-fastapi
     ```
 
 2. **Install the dependencies**
@@ -31,7 +31,7 @@ This is a simple TodoApp API built using FastAPI.
 
 ## Running the Application
 
-2. **Start the development server**
+3. **Start the development server**
 
     ```sh
     py main.py
